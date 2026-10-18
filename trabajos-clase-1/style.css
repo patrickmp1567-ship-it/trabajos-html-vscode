@@ -1,0 +1,29 @@
+body {
+    color: #1f2933;
+    background-color: #f2f7f2;
+}
+
+h2,
+a {
+    color: #0b6e4f;
+}
+
+h1
+{
+    font-size: 2.5rem;
+}
+h2
+{
+    font-size: 1.75rem;
+}
+p
+{
+    font-size: 1.125rem;
+}
+body
+{
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
